@@ -1,12 +1,6 @@
 WEBVTT
-X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+X-TIMESTAMP-MAP=MPEGTS:0,LOCAL:00:00:00.000
 
 00:01:47.250 --> 00:01:50.500
 Esta hoja tiene un pasado oscuro.
-
-00:01:51.800 --> 00:01:55.800
-Ha derramado mucha sangre inocente.
-
-00:01:58.000 --> 00:02:01.450
-Eres un tonto por viajar solo. tan completamente desprevenido.
 

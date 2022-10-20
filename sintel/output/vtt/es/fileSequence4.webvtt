@@ -1,9 +1,12 @@
 WEBVTT
-X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+X-TIMESTAMP-MAP=MPEGTS:0,LOCAL:00:00:00.000
 
-00:05:04.000 --> 00:05:07.500
-¡Sí! ¡Vamos!
+00:02:18.000 --> 00:02:22.200
+Alguien muy querido? ¿Un alma gemela?
 
-00:05:38.750 --> 00:05:42.000
-¡Escamas!
+00:02:23.400 --> 00:02:25.000
+Un dragón.
+
+00:02:28.850 --> 00:02:31.750
+Una búsqueda peligrosa para un cazador solitario.
 
