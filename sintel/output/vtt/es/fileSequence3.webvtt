@@ -1,12 +1,9 @@
 WEBVTT
-X-TIMESTAMP-MAP=MPEGTS:0,LOCAL:00:00:00.000
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
 
-00:02:09.400 --> 00:02:13.800
-¿Qué te trae a la tierra de los porteros?
+00:04:10.350 --> 00:04:13.850
+Cosiguele. ¡Escamas! ¡Vamos!
 
-00:02:15.000 --> 00:02:17.500
-Estoy buscando a alguien.
-
-00:02:18.000 --> 00:02:22.200
-Alguien muy querido? ¿Un alma gemela?
+00:04:25.250 --> 00:04:28.250
+¿Escamas?
 
